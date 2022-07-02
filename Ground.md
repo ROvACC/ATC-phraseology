@@ -4,7 +4,7 @@ Notă: *Toate cuvintele scrise cu majuscule (mai puțin IFR, VFR, FL, QNH, CTR s
 ### **IFR Clearance**:
 
 CALLSIGN cleared to your destination, via SID departure, runway RWY, climb FL xxx, squawk xxxx.
-Variatiune:
+Variațiune:
 CALLSIGN cleared to your destination, runway RWY, after departure follow SID, climb FL xxx, squawk xxxx
 
 CALLSIGN autorizez zborul către DEST, via SID (plecare), pista în serviciu RWY, urcați la nivelul de zbor xxx, afisați cod A xxxx.
